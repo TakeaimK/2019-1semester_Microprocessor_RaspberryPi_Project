@@ -10,7 +10,7 @@
 
 IDE : Eclips Oxygen  
 Language : Java(Client), Python(Server)
-Adviser : Kim Young-cheon
+Adviser : Kim Young-cheon  
 
 ### Team Member
 
